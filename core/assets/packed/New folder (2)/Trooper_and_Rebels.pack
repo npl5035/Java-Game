@@ -1,0 +1,452 @@
+
+Trooper_and_Rebels.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enemy/0
+  rotate: false
+  xy: 1, 1
+  size: 287, 229
+  orig: 287, 229
+  offset: 0, 0
+  index: -1
+enemy/15
+  rotate: false
+  xy: 290, 142
+  size: 156, 88
+  orig: 156, 88
+  offset: 0, 0
+  index: -1
+enemy/14
+  rotate: false
+  xy: 290, 34
+  size: 136, 106
+  orig: 136, 106
+  offset: 0, 0
+  index: -1
+enemy/13
+  rotate: false
+  xy: 448, 161
+  size: 136, 69
+  orig: 136, 69
+  offset: 0, 0
+  index: -1
+enemy/16
+  rotate: false
+  xy: 586, 165
+  size: 136, 65
+  orig: 136, 65
+  offset: 0, 0
+  index: -1
+enemy/12
+  rotate: false
+  xy: 724, 164
+  size: 124, 66
+  orig: 124, 66
+  offset: 0, 0
+  index: -1
+enemy/3
+  rotate: false
+  xy: 850, 173
+  size: 103, 57
+  orig: 103, 57
+  offset: 0, 0
+  index: -1
+enemy/10
+  rotate: false
+  xy: 955, 159
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+enemy/2
+  rotate: false
+  xy: 448, 102
+  size: 96, 57
+  orig: 96, 57
+  offset: 0, 0
+  index: -1
+enemy/11
+  rotate: false
+  xy: 428, 36
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+enemy/1
+  rotate: false
+  xy: 850, 114
+  size: 94, 57
+  orig: 94, 57
+  offset: 0, 0
+  index: -1
+enemy/17
+  rotate: false
+  xy: 546, 102
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+enemy/5
+  rotate: false
+  xy: 518, 41
+  size: 86, 59
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+enemy/4
+  rotate: false
+  xy: 635, 106
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+enemy/8
+  rotate: false
+  xy: 724, 105
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+enemy/6
+  rotate: false
+  xy: 606, 39
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+enemy/7
+  rotate: false
+  xy: 690, 43
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+enemy/9
+  rotate: false
+  xy: 771, 46
+  size: 80, 57
+  orig: 80, 57
+  offset: 0, 0
+  index: -1
+
+Trooper_and_Rebels2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+friendlynpc/18
+  rotate: false
+  xy: 1, 136
+  size: 119, 107
+  orig: 119, 107
+  offset: 0, 0
+  index: -1
+friendlynpc/17
+  rotate: false
+  xy: 122, 149
+  size: 120, 94
+  orig: 120, 94
+  offset: 0, 0
+  index: -1
+friendlynpc/19
+  rotate: false
+  xy: 244, 167
+  size: 130, 76
+  orig: 130, 76
+  offset: 0, 0
+  index: -1
+friendlynpc/20
+  rotate: false
+  xy: 376, 182
+  size: 121, 61
+  orig: 121, 61
+  offset: 0, 0
+  index: -1
+friendlynpc/6
+  rotate: false
+  xy: 1, 71
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+friendlynpc/16
+  rotate: false
+  xy: 1, 1
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+friendlynpc/5
+  rotate: false
+  xy: 499, 180
+  size: 85, 63
+  orig: 85, 63
+  offset: 0, 0
+  index: -1
+friendlynpc/4
+  rotate: false
+  xy: 586, 180
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+friendlynpc/13
+  rotate: false
+  xy: 664, 180
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+friendlynpc/0
+  rotate: false
+  xy: 739, 180
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+friendlynpc/12
+  rotate: false
+  xy: 812, 180
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+friendlynpc/15
+  rotate: false
+  xy: 885, 180
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+friendlynpc/10
+  rotate: false
+  xy: 958, 182
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+friendlynpc/9
+  rotate: false
+  xy: 244, 104
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+friendlynpc/1
+  rotate: false
+  xy: 319, 104
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+friendlynpc/8
+  rotate: false
+  xy: 392, 117
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+friendlynpc/14
+  rotate: false
+  xy: 465, 118
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+friendlynpc/11
+  rotate: false
+  xy: 533, 117
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+friendlynpc/2
+  rotate: false
+  xy: 599, 118
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+friendlynpc/3
+  rotate: false
+  xy: 660, 116
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+
+Trooper_and_Rebels3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+friendlynpc/svgs/7
+  rotate: false
+  xy: 1, 1
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+
+Trooper_and_Rebels4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player sprites/18
+  rotate: false
+  xy: 1, 136
+  size: 119, 107
+  orig: 119, 107
+  offset: 0, 0
+  index: -1
+player sprites/17
+  rotate: false
+  xy: 122, 149
+  size: 120, 94
+  orig: 120, 94
+  offset: 0, 0
+  index: -1
+player sprites/19
+  rotate: false
+  xy: 244, 166
+  size: 130, 77
+  orig: 130, 77
+  offset: 0, 0
+  index: -1
+player sprites/20
+  rotate: false
+  xy: 376, 182
+  size: 121, 61
+  orig: 121, 61
+  offset: 0, 0
+  index: -1
+player sprites/6
+  rotate: false
+  xy: 1, 71
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+player sprites/16
+  rotate: false
+  xy: 1, 1
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+player sprites/5
+  rotate: false
+  xy: 499, 180
+  size: 85, 63
+  orig: 85, 63
+  offset: 0, 0
+  index: -1
+player sprites/4
+  rotate: false
+  xy: 586, 180
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+player sprites/12
+  rotate: false
+  xy: 664, 180
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+player sprites/8
+  rotate: false
+  xy: 739, 180
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+player sprites/0
+  rotate: false
+  xy: 814, 180
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+player sprites/1
+  rotate: false
+  xy: 887, 182
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+player sprites/14
+  rotate: false
+  xy: 960, 183
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+player sprites/10
+  rotate: false
+  xy: 95, 70
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+player sprites/11
+  rotate: false
+  xy: 85, 3
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+player sprites/15
+  rotate: false
+  xy: 162, 82
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+player sprites/9
+  rotate: false
+  xy: 244, 99
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+player sprites/13
+  rotate: false
+  xy: 313, 102
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+player sprites/2
+  rotate: false
+  xy: 381, 118
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+player sprites/3
+  rotate: false
+  xy: 381, 54
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+
+Trooper_and_Rebels5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player sprites/svgs/1.1
+  rotate: false
+  xy: 1, 23
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+player sprites/svgs/7
+  rotate: false
+  xy: 1, 1
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1

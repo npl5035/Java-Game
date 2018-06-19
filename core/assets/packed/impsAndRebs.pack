@@ -1,0 +1,194 @@
+
+impsAndRebs.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+muzzleFlash
+  rotate: false
+  xy: 1, 751
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+enemyDeath1
+  rotate: false
+  xy: 1, 621
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemyDeath2
+  rotate: false
+  xy: 259, 879
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemyDeath3
+  rotate: false
+  xy: 1, 491
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemyFire1
+  rotate: false
+  xy: 389, 879
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemyFire2
+  rotate: false
+  xy: 1, 361
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemyFire3
+  rotate: false
+  xy: 519, 879
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemyMelee1
+  rotate: false
+  xy: 1, 231
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemyMelee2
+  rotate: false
+  xy: 649, 879
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemyMelee3
+  rotate: false
+  xy: 1, 101
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+enemyStand
+  rotate: false
+  xy: 779, 879
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerDeath1
+  rotate: false
+  xy: 131, 621
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerDeath2
+  rotate: false
+  xy: 131, 491
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerDeath3
+  rotate: false
+  xy: 131, 361
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerFire1
+  rotate: false
+  xy: 131, 231
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerFire2
+  rotate: false
+  xy: 131, 101
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hit2
+  rotate: false
+  xy: 1, 35
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+playerFire3
+  rotate: false
+  xy: 261, 749
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerMelee1
+  rotate: false
+  xy: 261, 619
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerMelee2
+  rotate: false
+  xy: 391, 749
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerMelee3
+  rotate: false
+  xy: 261, 489
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerRun1
+  rotate: false
+  xy: 391, 619
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerRun2
+  rotate: false
+  xy: 521, 749
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerRun3
+  rotate: false
+  xy: 261, 359
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playerStand
+  rotate: false
+  xy: 391, 489
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+blasterBolt
+  rotate: false
+  xy: 909, 975
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hit1
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
